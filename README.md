@@ -23,5 +23,5 @@ Para cadastrar um novo usuario é somente preencher o campo vazio e salvar.
 Para excluir basta clicar no icone de exclusão que o mesmo já será excluido do banco de dados.
 
 
-Obs. todos os meus projetos o cabeçalho da pagina "Header" muda conforme a funcionalidade do sistema.
+Obs. todos os meus projetos o cabeçalho da pagina "Header" muda conforme a funcionalidade do sistema...
 Para voltar ao Manu principal, podemos clicar na imagem ou no campo "Início" do menu a Esquerda...
